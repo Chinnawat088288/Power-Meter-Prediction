@@ -1,0 +1,2 @@
+transaction_date,start_kwh,end_kwh,kwh,onpeak_kwh,offpeak_kwh,holiday_kwh
+2025-08-29,6081487.872,6081532.928,45.056,40.063,4.993,0.000
